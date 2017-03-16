@@ -3,7 +3,10 @@ Excel-based Kanban board, issue tracking, and analytics
 
 Rather than spread across several workbooks, the goal is to have as much as possible for a project available within one workbook.
 
-## Using This
+## Downloading the Workbook
+Click the file above (code tab) and then click the get raw link.  Or you can clone this repo to your machine.
+
+## Using The Workbook
 ### The tabs
 The green, red, and blue tabs are the ones where you can do data entry.  
 The purple tabs are intended to be read-only.
