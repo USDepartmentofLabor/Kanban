@@ -1,11 +1,18 @@
 # Kanban
 Excel-based Kanban board, issue tracking, and analytics
 
-Some of the contents of this repository is from [FocusObjective's](https://github.com/FocusedObjective/FocusedObjective.Resources) excellent spreadsheets. Those components are work licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) International License.  Otherwise, the rest are a US Government work, with a [Creative Commons 0 license](https://creativecommons.org/share-your-work/public-domain/cc0/)
+Rather than spread across several workbooks, the goal is to have as much as possible for a project available within one workbook.
 
-Rather than spread across several workbooks, the goal is to have as much as possible available within one workbook.
+## Using This
+### The tabs
+The green, red, and blue tabs are the ones where you can do data entry.  
+The purple tabs are intended to be read-only.
+The orange tabs are charts.
+### Getting Started
+Get started by adding your WIP limits and project code in the settings sheet (hidden by default)
 
-
+## License
+Some of the contents of this repository is from [FocusObjective's](https://github.com/FocusedObjective/FocusedObjective.Resources) excellent spreadsheets. Those components are work licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) International License.  Otherwise, the rest are a US Government work, with a [Creative Commons 0 license](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 ## Change log
 * 2017-03-16 : First commit
