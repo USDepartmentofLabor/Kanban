@@ -19,3 +19,4 @@ Some of the contents of this repository is from [FocusObjective's](https://githu
 
 ## Change log
 * 2017-03-16 : First commit
+* 2017-03-17 : Added version and version label.  Created 1.0 release.
