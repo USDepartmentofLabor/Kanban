@@ -18,6 +18,7 @@ Get started by adding your WIP limits and project code in the settings sheet (hi
 Some of the contents of this repository is from [FocusObjective's](https://github.com/FocusedObjective/FocusedObjective.Resources) excellent spreadsheets. Those components are work licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) International License.  Otherwise, the rest are a US Government work, with a [Creative Commons 0 license](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 ## Change log
+* 2017-03-31 : Added cycle time calculations to the dashboard and assorted bug fixes in the Weekly Summary and Forecasting sheets.
 * 2017-03-27 : Fixed the erroneous throughput calculations on the dashboard and fixed backlog, forecasting, and incomplete calculations that were hard-coded project code-dependent.
 * 2017-03-21 : Fixed the erroneous WIP count when tasks are aborted.
 * 2017-03-20 : Fixed the "external linking" error.
